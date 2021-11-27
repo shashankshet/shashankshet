@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shashank
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Java, SQL, Python
-- 💞️ I’m looking to collaborate on Software development in Java, python and SQL
+- 👀 I’m interested in Software development, Web development
+- 🌱 My skills: Html,css,javascript, python,java,c,c++, Oracle SQL, PL/SQL
+- 💞️ I’m looking for a remote software development role.
 - 📫 You can reach me at shashankshetk@gmail.com
 
 <!---
