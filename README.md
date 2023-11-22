@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at **[My Website](https://shashank-umber.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://shashank-shet.vercel.app/)**
 - 🔭 I’m currently working on `Something Intresting`.
 - 🌱 I’m currently learning `MERN Stack`
 - 👯 I’m looking to collaborate for `Dev Projects`
