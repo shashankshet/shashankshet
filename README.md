@@ -1,5 +1,10 @@
 <h1 align="center">Hello! I'm Shashank Shet</h1>
-
+<p align="left">
+    <img
+        src="https://komarev.com/ghpvc/?username=shashankshet&label=PROFILE+VIEWS&color=blue&style=flat"
+        alt="subh-cs"
+    />
+</p>
 ## 👨🏻‍💻 About Me:
 
 - 🙋‍♂️ All about me is at **[My Website](https://shashank-shet.vercel.app/)**
