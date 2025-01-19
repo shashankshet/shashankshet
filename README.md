@@ -11,9 +11,12 @@
 - 🙋‍♂️ All about me is at **[My Website](https://shashank-shet.vercel.app/)**
 - 🔭 I’m currently working on `Something Intresting`.
 - 🌱 I’m currently tinkering with tech
+- 📫 You can reach me at shashankshetk@gmail.com
+<!-- 
 - 👯 I’m looking to collaborate for `Dev Projects`
 - 👀 I’m interested in Software development, Web development
-- 📫 You can reach me at shashankshetk@gmail.com
+-->
+
 
 <!-- ## 🛠️ Technologies and Tools I use:
 
