@@ -15,7 +15,7 @@
 - 👀 I’m interested in Software development, Web development
 - 📫 You can reach me at shashankshetk@gmail.com
 
-## 🛠️ Technologies and Tools I use:
+<!-- ## 🛠️ Technologies and Tools I use:
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
@@ -38,15 +38,15 @@
 <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 
-<br/>
+<br/> -->
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashankshet&theme=github" alt="Shashank's stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashankshet&theme=github" alt="Shashank's stats" />
-</p>
+</p> -->
 
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shashankshet&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
 </p>
 
@@ -55,7 +55,7 @@
 <p align="left">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=shashankshet&column=7&theme=gruvbox&no-frame=true"/>
 </details>
-</p>
+</p> -->
 
 ## ❤️ Let's get connected:
 
